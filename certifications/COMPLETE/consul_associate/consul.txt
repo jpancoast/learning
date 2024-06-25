@@ -1,0 +1,53 @@
+
+cloud guru course:
+    Pointer: 3.8: "Creating a Consul Cluster"
+
+
+
+Maybe whip up a short script that takes number of servers and generates ALL the necessary certs.
+    Takes dc & domains
+
+
+
+Primary headers are sections in the Study Guide: https://developer.hashicorp.com/consul/tutorials/certification/associate-study
+
+https://learn.acloud.guru/course/learning-hashicorp-consul/dashboard
+
+https://developer.hashicorp.com/consul/tutorials/certification/associate-study
+
+
+Study for the Exam:
+    Review Guide: https://developer.hashicorp.com/consul/tutorials/certification/associate-review
+
+    Sample Exam Questions: https://developer.hashicorp.com/consul/tutorials/certification/associate-questions
+
+Consul Fundamentals:
+    https://developer.hashicorp.com/consul/docs/intro
+    https://developer.hashicorp.com/consul/commands
+
+    Tutorials: https://developer.hashicorp.com/consul/tutorials/get-started-vms
+        Track tutorial progress below
+    
+Consul Deployment Architecture:
+
+Datacenter Deployment:
+
+Service Discover & Service Registration:
+
+KV Store:
+
+Backup & Restore:
+
+Service Mesh:
+
+Secure Agent Communication:
+
+ACLs & service security:
+
+Gossip Encryption:
+
+
+
+
+============ GETTING STARTED TUTORIALS ====================
+https://developer.hashicorp.com/consul/tutorials/get-started-vms

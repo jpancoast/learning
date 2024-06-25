@@ -1,0 +1,1 @@
+https://www.hashicorp.com/certification/vault-associate

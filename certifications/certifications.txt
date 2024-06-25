@@ -1,0 +1,27 @@
+
+What certs should I be going for right now?
+
+
+Order:
+    CKA (schedule re-take)
+    Vault Associate
+    CKS
+    Vault Pro
+    AWS Specialties
+    
+
+Others:
+    CKA (Working on test scheduling)
+    CKS
+    Vault Associate
+
+    AWS Specialties:
+        Advanced Networking
+        Security
+        Data Analytics
+
+    CISSP
+
+DONE:
+    Aws Devops Pro, w00t!
+    Consul Associate

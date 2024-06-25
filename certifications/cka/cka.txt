@@ -1,0 +1,74 @@
+
+https://uklabs.kodekloud.com/topic/mock-exam-1-4/
+https://uklabs.kodekloud.com/topic/mock-exam-2-4/
+https://uklabs.kodekloud.com/topic/mock-exam-3-3/
+    Login with my personal google account
+
+I also have access to some killer.sh stuff.
+
+
+
+
+
+
+
+https://learn.acloud.guru/course/certified-kubernetes-administrator/dashboard
+
+Quizzes:
+    2.7: Getting Started: 100% first time
+    3.10: Cluster Management: 90% first time
+    4.9: K8s Object Management: 70% first time (RETAKE)
+    5.12: Pods & Containers: 92% first time
+    6.7: Advanced Pod Allocation: 67% first time (RETAKE)
+    7.5: Deployments:  67% first time (RETAKE)
+    8.6: Networking: 75% first time (RETAKE)
+    9.8: Services: 63% first time (RETAKE)
+    10.7: Storage: 75% first time (RETAKE)
+    11.10: Troubleshooting: 90% first time
+
+Hands on labs:
+    2.4, Building a cluster with kubeadm: DONE
+    2.6, Working with k8s Namespaces: DONE
+
+    3.6, Performing k8s upgrade with kubeadm: DONE
+    3.8, Backing up and restoring k8s data in etcd: DONE, etcdctl and shit
+
+    4.2, Exploring a cluster with kubectl: DONE
+    4.5, Controlling access with RBAC: DONE
+    4.8, Discovering Pod resource usage with k8s metrics: DONE
+
+    5.3, passing config data to a k8s cluster: DONE
+    5.7, Building self healing containers: DONE
+    5.10, Using init containers: DONE
+
+    6.2, Assigning a pod to a specific node: DONE
+    6.4, Using Daemonsets: DONE
+    6.6, Using static pods: DONE
+
+    7.4, Managing k8s aplications with deployments: DONE
+
+    8.4, Exploring k8s networking: DONE
+
+    9.3, Exposing pods using services: DONE
+    9.5, Using k8s services with DNS: DONE
+    9.7, Using k8s ingress: DONE
+
+    10.3, Managing conatiner storage with k8s volumes:  DONE
+    10.6, Using PersistentVolumes in Kubernetes: DONE
+
+    11.4, Troubleshooting a broken cluster: 
+    11.7, Troubleshooting a broken application:
+
+echo 'source <(kubectl completion bash)' >>~/.bashrc
+echo 'alias k=kubectl' >>~/.bashrc
+echo 'complete -o default -F __start_kubectl k' >>~/.bashrc
+source ~/.bashrc
+
+Chapter 12: 
+    This is the example exam.  All these are hands on labs.
+
+
+Questions I had issues with:
+    * adding the side car (manifest looked weird)
+    * anything with volumes (I think there were two)
+    * kubelet not running, put it in systemd
